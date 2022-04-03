@@ -1,0 +1,611 @@
+#### HERRA result, 2022-04-03 15:48:02 ####
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.777615629029262	0.875893714220619	350
+#Maximum h2 :  0.7776156 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.770011979339549	0.867329085733574	350
+#Maximum h2 :  0.770012 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.747884608760237	0.842405172068357	350
+#Maximum h2 :  0.7478846 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.788666514907302	0.888341254002231	350
+#Maximum h2 :  0.7886665 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.793910794966259	0.894248326555527	350
+#Maximum h2 :  0.7939108 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.801875115814702	0.903219209223993	350
+#Maximum h2 :  0.8018751 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.792069410799129	0.892174221101309	350
+#Maximum h2 :  0.7920694 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.806776097657689	0.908739596198649	350
+#Maximum h2 :  0.8067761 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.805976175445814	0.907838576708954	350
+#Maximum h2 :  0.8059762 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.806064227532657	0.907937757160724	350
+#Maximum h2 :  0.8060642 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.790835943635896	0.890784863564447	350
+#Maximum h2 :  0.7908359 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.796661338335055	0.897346494284521	350
+#Maximum h2 :  0.7966613 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.789246956458397	0.888995054012284	350
+#Maximum h2 :  0.789247 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.799108622644085	0.90010307589524	350
+#Maximum h2 :  0.7991086 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.794647740259532	0.895078409858904	350
+#Maximum h2 :  0.7946477 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.821176501396632	0.924959978925427	350
+#Maximum h2 :  0.8211765 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.798410497339992	0.899316718802139	350
+#Maximum h2 :  0.7984105 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.784902531717686	0.884101563989399	350
+#Maximum h2 :  0.7849025 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.780176361108683	0.878778081571836	350
+#Maximum h2 :  0.7801764 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.779406638021819	0.877911077889931	350
+#Maximum h2 :  0.7794066 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.79542665436656	0.895955766157818	350
+#Maximum h2 :  0.7954267 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.777258980792598	0.875491991393788	350
+#Maximum h2 :  0.777259 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.764707219098912	0.861353889278197	350
+#Maximum h2 :  0.7647072 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.782784614401668	0.881715976052265	350
+#Maximum h2 :  0.7827846 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.751588885438302	0.846577609628673	350
+#Maximum h2 :  0.7515889 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.788152503656403	0.887762280011876	350
+#Maximum h2 :  0.7881525 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.811639353658583	0.914217489392676	350
+#Maximum h2 :  0.8116394 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.776633544645376	0.87478751019569	350
+#Maximum h2 :  0.7766335 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.807555446300893	0.90961744195211	350
+#Maximum h2 :  0.8075554 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.783256610902117	0.882247625304728	350
+#Maximum h2 :  0.7832566 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.785544187248946	0.884824314440323	350
+#Maximum h2 :  0.7855442 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.789848223924262	0.889672311997149	350
+#Maximum h2 :  0.7898482 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.791964842433682	0.89205643697946	350
+#Maximum h2 :  0.7919648 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.788987606234053	0.888702926098691	350
+#Maximum h2 :  0.7889876 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.780552247683163	0.879201474152381	350
+#Maximum h2 :  0.7805522 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.785151288715169	0.884381759862952	350
+#Maximum h2 :  0.7851513 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.806709838263538	0.908664962684766	350
+#Maximum h2 :  0.8067098 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.778933009976969	0.877377590892145	350
+#Maximum h2 :  0.778933 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.792724780585724	0.892912419068453	350
+#Maximum h2 :  0.7927248 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.798445058969062	0.899355648464205	350
+#Maximum h2 :  0.7984451 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.812244409056534	0.914899014043206	350
+#Maximum h2 :  0.8122444 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.78129605133513	0.880039282600477	350
+#Maximum h2 :  0.7812961 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.758959176449328	0.854879386660332	350
+#Maximum h2 :  0.7589592 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.805558415850898	0.907368019032922	350
+#Maximum h2 :  0.8055584 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.813768138028963	0.916615317804735	350
+#Maximum h2 :  0.8137681 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.787418396361751	0.886935393384414	350
+#Maximum h2 :  0.7874184 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.796941325123155	0.897661866890994	350
+#Maximum h2 :  0.7969413 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.787973368164382	0.887560504680212	350
+#Maximum h2 :  0.7879734 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.738501895745264	0.831836635319153	350
+#Maximum h2 :  0.7385019 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.818369403219473	0.921798108771605	350
+#Maximum h2 :  0.8183694 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.785843044519404	0.885160942454049	350
+#Maximum h2 :  0.785843 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.796660399439892	0.897345436728138	350
+#Maximum h2 :  0.7966604 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.801394626199162	0.902677993463548	350
+#Maximum h2 :  0.8013946 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.787919788576907	0.887500153496249	350
+#Maximum h2 :  0.7879198 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.783248206173986	0.882238158354394	350
+#Maximum h2 :  0.7832482 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.809072656382278	0.911326402939812	350
+#Maximum h2 :  0.8090727 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.813205451386162	0.915981516637286	350
+#Maximum h2 :  0.8132055 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.783082628754807	0.882051654617507	350
+#Maximum h2 :  0.7830826 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.809381401682099	0.91167416867048	350
+#Maximum h2 :  0.8093814 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.80676450248362	0.90872653558142	350
+#Maximum h2 :  0.8067645 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.780453271479703	0.879089988951683	350
+#Maximum h2 :  0.7804533 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.792337426024917	0.892476109132902	350
+#Maximum h2 :  0.7923374 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.775552541915011	0.873569886139234	350
+#Maximum h2 :  0.7755525 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.763530752826873	0.860028736626678	350
+#Maximum h2 :  0.7635308 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.783072685729125	0.882040454953598	350
+#Maximum h2 :  0.7830727 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.793092404615014	0.893326504851236	350
+#Maximum h2 :  0.7930924 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.770521367004633	0.86790285179137	350
+#Maximum h2 :  0.7705214 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.798798136909737	0.899753349767165	350
+#Maximum h2 :  0.7987981 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.768158309819245	0.865241142255505	350
+#Maximum h2 :  0.7681583 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.790739281446222	0.890675984831591	350
+#Maximum h2 :  0.7907393 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.764355086252899	0.860957252514635	350
+#Maximum h2 :  0.7643551 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.793018283679559	0.893243016223907	350
+#Maximum h2 :  0.7930183 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.812211012082462	0.914861396229762	350
+#Maximum h2 :  0.812211 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.740438808473048	0.834018342604766	350
+#Maximum h2 :  0.7404388 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.773747630660553	0.871536863186134	350
+#Maximum h2 :  0.7737476 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.8041140556958	0.905741115028304	350
+#Maximum h2 :  0.8041141 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.819840307670241	0.923454911843136	350
+#Maximum h2 :  0.8198403 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.797465796924922	0.898252623477287	350
+#Maximum h2 :  0.7974658 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.755921815180648	0.851458151870626	350
+#Maximum h2 :  0.7559218 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.792071348689121	0.892176403909369	350
+#Maximum h2 :  0.7920713 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.776120197879051	0.874209284670052	350
+#Maximum h2 :  0.7761202 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.804607552492516	0.906296981868033	350
+#Maximum h2 :  0.8046076 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.781012822926811	0.879720258685223	350
+#Maximum h2 :  0.7810128 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.760557003446537	0.856679153242975	350
+#Maximum h2 :  0.760557 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.78788133648689	0.887456841681661	350
+#Maximum h2 :  0.7878813 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.79204170668061	0.892143015628627	350
+#Maximum h2 :  0.7920417 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.796174691956229	0.896798343645118	350
+#Maximum h2 :  0.7961747 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.785357316643363	0.884613826401383	350
+#Maximum h2 :  0.7853573 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.775526896951266	0.873541000065309	350
+#Maximum h2 :  0.7755269 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.797463434804616	0.898249962823038	350
+#Maximum h2 :  0.7974634 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.800133934439217	0.90125797057964	350
+#Maximum h2 :  0.8001339 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.781101591697952	0.879820246398637	350
+#Maximum h2 :  0.7811016 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.812188184638935	0.914835683765209	350
+#Maximum h2 :  0.8121882 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.817895288191264	0.92126407324361	350
+#Maximum h2 :  0.8178953 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.780925035768723	0.879621376644934	350
+#Maximum h2 :  0.780925 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.785708836940693	0.885009773199979	350
+#Maximum h2 :  0.7857088 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.796418208258331	0.89707263648384	350
+#Maximum h2 :  0.7964182 
+#Number of variants before screening : 89703 
+#Number of sample : 603 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.775751396816408	0.873793873095866	350
+#Maximum h2 :  0.7757514 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.791949894339415	0.892039599686948	350
+#Maximum h2 :  0.7919499 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.79907003713129	0.900059613795385	350
+#Maximum h2 :  0.79907 
+#Number of variants after screening :  350 
+#lambda	h2	liability	n_variants
+0.01	0.78270199342148	0.881622913111516	350
+#Maximum h2 :  0.782702 
+########### Boostraping result summary ##########
+# confident interval of h^2 at 95%
+# Normal	0.733147	0.7990494	
+# Basic	0.7362248	0.8105714	
