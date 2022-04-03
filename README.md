@@ -18,7 +18,7 @@ doi: 10.1371/journal.pone.0181269
     * permute: installed.packages("permute")
   * Dataset
     * SNPs from Maela dataset of Streptococus pneumoniae genomes (snps.vcf.gz) (10.1371/journal.pgen.1004547)
-    * phenotype data of drug resistance (resistances.phe)
+    * phenotype data of drug resistance (penicillin) (resistances.phe)
 
 # To use
   ### 1.  Preprocess vcf file
@@ -63,9 +63,20 @@ lambda_list| shrinkage parameter value in variant screening step (default: "0.00
   There are 2 files reported after running
 1. log file containing h^2 score: herra_allSNP_Maela.out
 ```
-grep -v "#" herra_allSNP_Maela.out
+tail herra_allSNP_Maela.out
+
+#Number of variants after screening :  350 
+#lambda h2      liability       n_variants
+0.01    0.78270199342148        0.881622913111516       350
+#Maximum h2 :  0.782702 
+########### Boostraping result summary ##########
+# confident interval of h^2 at 95%
+# Normal        0.733147        0.7990494
+# Basic 0.7362248       0.8105714
 ```
 
+  * The h^2 of S.pneumoniae with penicillin resistance is in range 0.736-0.811 with 95% confidence.
+
 2. Histogram and quantile plot of bootstrapping result: herra_allSNP_Maela.pdf
-![alt text](https://)
+![alt text](https://github.com/asangphukieo/HERRA/blob/main/Output/herra_allSNP_Maela.JPG)
 
